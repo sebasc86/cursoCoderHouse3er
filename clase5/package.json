@@ -1,0 +1,20 @@
+{
+  "name": "clase5",
+  "version": "1.0.0",
+  "description": "clase cinco fullStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "fullstack",
+    "coderhouse"
+  ],
+  "author": "Seba",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "react": "^16.6.3"
+  }
+}
